@@ -1,0 +1,9 @@
+{
+	"name": "adelabsTestADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60cb9f86-1b97-404e-b998-c3b9ed6f806a",
+		"tenantId": "ed12cd4e-7ee5-43f9-8ee0-2254dea08e2f"
+	}
+}
